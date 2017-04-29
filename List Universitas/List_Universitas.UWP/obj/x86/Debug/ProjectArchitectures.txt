@@ -1,0 +1,2 @@
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Submission3\List Universitas\List Universitas\List_Universitas.UWP\List_Universitas.UWP.csproj;x86
+E:\DEVELOPMENT\Riset\Xamarin\Dicoding\Submission3\List Universitas\List Universitas\List_Universitas\List_Universitas.csproj;neutral
